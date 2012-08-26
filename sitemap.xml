@@ -2,14 +2,18 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://Thingee.github.com/blog/2012/08/26/new-post/</loc>
-        <lastmod>2012-08-26T00:53:01-07:00</lastmod>
+        <lastmod>2012-08-26T01:31:18-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://Thingee.github.com/404.html</loc>
+        <lastmod>2012-08-26T01:31:18-07:00</lastmod>
     </url>
     <url>
         <loc>http://Thingee.github.com/blog/archives/</loc>
-        <lastmod>2012-08-26T00:53:01-07:00</lastmod>
+        <lastmod>2012-08-26T01:31:18-07:00</lastmod>
     </url>
     <url>
         <loc>http://Thingee.github.com/</loc>
-        <lastmod>2012-08-26T00:53:01-07:00</lastmod>
+        <lastmod>2012-08-26T01:31:18-07:00</lastmod>
     </url>
 </urlset>
